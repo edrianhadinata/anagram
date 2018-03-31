@@ -1,0 +1,181 @@
+
+#warp{
+	
+	margin:auto;
+	border:1px solid #6cd8ef;
+	width:960px;
+
+}
+
+#header{
+
+	
+	height:120px;
+	background-image:url(../images/bg_header.JPG);
+	padding:20px;
+
+}
+
+#logo{
+	background-image:url(../images/angram_logo_thum.png);
+	background-repeat:no-repeat;
+	height:100px;
+	width:210px;
+	float:left;
+	
+}
+
+#mid{
+
+	min-height:450px;
+	
+	margin-top:30px;
+}
+
+#footer{
+
+	height:60px;
+	background-image:url(../images/bg_footer.JPG);
+	margin-top:20px;
+	
+}
+
+#h_warp{
+
+	height:27px;
+	border: 1px solid #6cd8ef;
+	margin:auto;
+	padding-top:5px;
+	width:800px;
+	background-image:url(../images/bg_title.JPG);
+}
+
+#sub_header{
+	
+	float:left;
+	margin-left:20px;
+	color:#ffffff;
+}
+
+#left_sub_header{
+	float:right;
+	padding-right:20px;
+
+}
+
+.list_triangle{
+	list-style-image:url(../images/list_icon.png);
+	text-align:right;
+}
+
+#g_content{
+
+	min-height:450;
+	width:800px;
+	border: 1px solid #6cd8ef;
+
+}
+
+#content{
+	height:auto;
+	width:800px;
+	margin:auto;
+
+}
+
+#line_foo{
+	
+	height:6px;
+	background-color:#c8ecff;
+}
+
+#footer p{
+
+	margin-top:20px;
+	font-size:10px;
+	font-family:tahoma;
+	color:#fff;
+
+}
+
+a:link{
+
+	text-decoration:none;
+	color:#ffffff;
+	
+}
+
+a:hover{
+	text-decoration:underline;
+	color:#a7e1ff;
+	
+}
+
+a:active{
+	text-decoration:bold;
+	color:#ffffff;
+}
+
+
+body{
+	font-family:tahoma;
+	font-size:13px;
+	margin-top:0;
+}
+
+#first_images{
+	background-image:url(../images/bg_content.JPG);
+	height:500;
+	width:800;
+}
+
+
+#login{
+	
+	height:120px;
+	width:240px;
+	float:right;
+	
+}
+
+.login_table{
+	font-family:tahoma;
+	font-size:12px;
+	color:#fff;
+}
+
+.inp_login{
+
+	border:1px solid #b2faff;
+	color:#258793;
+	padding:5px;
+
+}
+
+.btn_login{
+	
+	display:block;
+	border:1px transparent;
+	background-color:#abdce6;
+	padding-top:2px; padding-bottom:5px;padding-left:5px;padding-right:5px;
+	color:#fff;
+}
+
+.inp_register{
+	background-color:#fff222;
+	border:1px solid #b2faff;
+	color:#258793;
+	font-size:15px;
+	padding:5px;
+
+}
+
+.btn_daftar{
+	
+	display:block;
+	border:1px transparent;
+	background-color:#33cc00;
+	padding-top:5px; padding-bottom:8px;padding-left:8px;padding-right:8px;
+	color:#fff;
+}
+

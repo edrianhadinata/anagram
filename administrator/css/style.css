@@ -1,0 +1,121 @@
+
+#warp{
+	
+	margin:auto;
+	border:1px solid #547853;
+	width:960px;
+
+}
+
+#header{
+
+	
+	height:120px;
+	background-image:url(../images/bg_header.JPG);
+	padding:20px;
+
+}
+
+#logo{
+	background-image:url(../images/angram_logo_thum.png);
+	background-repeat:no-repeat;
+	height:100px;
+	width:200px;
+	
+}
+
+#mid{
+
+	min-height:450px;
+	
+	margin-top:30px;
+}
+
+#footer{
+
+	height:60px;
+	background-image:url(../images/bg_footer.JPG);
+	margin-top:20px;
+	
+}
+
+#h_warp{
+
+	height:27px;
+	border: 1px solid #754788;
+	margin:auto;
+	padding-top:5px;
+	width:800px;
+	background-image:url(../images/bg_title.JPG);
+}
+
+#sub_header{
+	
+	float:left;
+	margin-left:20px;
+	color:#ffffff;
+}
+
+#left_sub_header{
+	float:right;
+	padding-right:20px;
+
+}
+
+.list_triangle{
+	list-style-image:url(../images/list_icon.png);
+	text-align:right;
+}
+
+#g_content{
+
+	min-height:450;
+	width:800px;
+	border: 1px solid #856989;
+
+}
+
+#content{
+	height:auto;
+	width:800px;
+	margin:auto;
+
+}
+
+#line_foo{
+	
+	height:6px;
+	background-color:#c8ecff;
+}
+
+#footer p{
+
+	margin-top:20px;
+	font-size:10px;
+	font-family:tahoma;
+	color:#fff;
+
+}
+
+a:link{
+
+	text-decoration:none;
+	color:#9e9e9e;
+	
+}
+
+a:hover{
+	text-decoration:underline;
+	color:#a7e1ff;
+}
+
+a:active{
+	text-decoration:bold;
+	
+}
+
+
+body{
+	font-family:tahoma;
+	font-size:13px;
+}
